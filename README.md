@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcelo, I'm an experienced Unix System Administrator, I have worked in roles like Sys Admin, IT Specialist, DevSecOps, DevOps. For a while I have been developing skills in programming languages such as Java and Python, in Machine Learning, Automation, and currently focused in Amazon AWS, Google Cloud and IBM Cloud skills.
+I'm Marcelo, an experienced Unix SysAdmin, I've worked in roles like Sys Admin, IT Specialist, SME, DevSecOps, DevOps. For a while I've been developing skills in programming languages such as Java and Python, in Machine Learning, Automation, and currently focused in Amazon AWS, Google Cloud and IBM Cloud skills.
 
 [![My job](https://img.shields.io/badge/My%20job-Kyndryl-informational?style=flat-square&logo=IBM&logoColor=white)](https://www.kyndryl.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcelonazar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelonazar/)
