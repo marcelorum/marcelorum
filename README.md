@@ -2,7 +2,6 @@
 
 I'm Marcelo, an experienced DevOps Engineer. I've worked in roles like Unix Sys Admin, IT Specialist, SME, DevSecOps, Senior Tech Lead. For a while I've been developing skills in programming languages such as Java and Python, and automation tools, and currently focused in Google Cloud Platform, IBM Cloud and AWS skills.
 
-[![My job](https://img.shields.io/badge/My%20job-Kyndryl-informational?style=flat-square&logo=IBM&logoColor=white)](https://www.kyndryl.com)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
