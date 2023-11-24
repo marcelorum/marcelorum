@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcelo, an experienced DevOps Engineer. I've worked in roles like Unix Sys Admin, IT Specialist, SME, DevSecOps, Senior Tech Lead. For a while I've been developing skills in programming languages such as Java and Python, and automation tools, and currently focused in Google Cloud Platform, IBM Cloud and AWS skills.
+I'm Marcelo, an experienced DevOps Engineer. I've worked in roles like Unix Sys Admin, IT Specialist, SME, DevSecOps, Senior Tech Lead. For a while I've been developing skills in programming languages such as Java and Python, and automation tools, and currently focused in Amazon Web Services, Azure and Red Hat Open Shift skills.
 
 [![OS](https://img.shields.io/badge/OS-Mac-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
