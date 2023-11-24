@@ -11,8 +11,8 @@ I'm Marcelo, an experienced DevOps Engineer. I've worked in roles like Unix Sys 
 [![GCP](https://img.shields.io/badge/Certified-GCP-green?style=flat-square&logo=google-cloud&logoColor=white)](https://www.google.com)  
 ![IBM Cloud](https://img.shields.io/badge/Certified-IBM%20Cloud-blue?style=flat-square&logo=IBM-Cloud)
 
-![Azure](https://img.shields.io/badge/Learning-Azure-blue?style=flat-square&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Learning-Azure-blue?style=flat-square&logo=microsoft-azure)  
+![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
 ![OCP](https://img.shields.io/badge/Learning-Open%20Shift-red?logo=redhatopenshift&style=flat-square)
 
 <p align="center">
@@ -30,7 +30,7 @@ I'm Marcelo, an experienced DevOps Engineer. I've worked in roles like Unix Sys 
   <a href="https://dev.to/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="marcelorum" height="20" width="20" /></a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcelorum&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcelorum&count_private=true&show_icons=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorum&hide=TeX&layout=compact)
 
 <!--
